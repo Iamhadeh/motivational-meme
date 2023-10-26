@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ border: 50px;
+    color: white;
+}
+
+.poster { 
+    border: 5px solid white;
+    border-color: 20px white;
+    position: relative;
+    top: 0;
+    left: 25%;
+}
+.quote {
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Young Serif', serif;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+
+.sub {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Young Serif', serif;
+    text-transform: capitalize;
+    color: burlywood;
+    text-align: center;
+}
